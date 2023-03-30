@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zheng Li"
-description              : "PhD student at Nankai University."
+title                    : "Zheng Li (李政)"
+description              : "Ph.D. student at Nankai University."
 repository               : "zhengli97/zhengli97.github.io"
 google_scholar_stats_use_cdn : true
 

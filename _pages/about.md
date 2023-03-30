@@ -22,6 +22,7 @@ Email: zhengli97 [at] {mail.nankai.edu.cn, qq.com}
 
 # 🔥 News
 - *2022.11*: One paper is accepted by AAAI 2023.
+- *2022.09*: I start a new journey as a Ph.D. student at Nankai University.
 
 # 📝 Publications
 
@@ -46,7 +47,7 @@ CTKD organizes the distillation task from easy to hard through a dynamic and lea
 **Online Knowledge Distillation for Efficient Pose Estimation.**  
 **Zheng Li**, Jingwen Ye, Mingli Song, Ying Huang, Zhigeng Pan#.  
 [[Paper](https://arxiv.org/abs/2108.02092)][[Code](https://github.com/zhengli97/OKDHP)]<img src="https://img.shields.io/github/stars/zhengli97/OKDHP?style=social"/>[[中文解读](https://zhuanlan.zhihu.com/p/399742423)]  
-OKDHP first propose to distill the pose structure knowledge in a one-stage manner.
+OKDHP first proposes to distill the pose structure knowledge in a one-stage manner.
 </div>
 </div>
 
@@ -90,5 +91,5 @@ Tinaren Luo, Mingmin Zhang#, Zhigeng Pan#, **Zheng Li**, Ning Cai, Jinda Miao, Y
 
 # 🥳 Personal Hobbies
 
-- 🗻 Mountaineering. Snow mountains are my favorite. I will go mountaineering and hiking during the holidays. I like [Wu-kung Mountains](https://500px.com.cn/community/photo-details/4dd4e0dd4fc04d2ab2d4a9e77ed87dd1) and [Jade Dragon Snow Mountain](https://500px.com.cn/community/photo-details/7396936afa3042d89588d4369d571736). The Great Peak of Mount Siguniang is my next target.
-- 📸 Photography. I am a contracted photographer for [500px Gallery](https://500px.com.cn/). I use Sony A7M4 camera with Sigma 35mm F1.4 DG DN, Tamron 28-200mm F2.8-5.6 and Tamron 17-28mm F2.8 lens.
+- 🗻 Mountaineering. Snow mountains are my favorite. I will go mountaineering and hiking during the holidays. I like [Wu-kung Mountains](https://500px.com.cn/community/photo-details/4dd4e0dd4fc04d2ab2d4a9e77ed87dd1) and [Jade Dragon Snow Mountain](https://500px.com.cn/community/photo-details/7396936afa3042d89588d4369d571736). The Great Peak of Mount Siguniang is my next climbing goal.
+- 📸 Photography. I am a contracted photographer for [500px Gallery](https://500px.com.cn/). I use a Sony A7M4 camera with Sigma 35mm F1.4 DG DN, Tamron 28-200mm F2.8-5.6, and Tamron 17-28mm F2.8 lens.
