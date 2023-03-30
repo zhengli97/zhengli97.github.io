@@ -53,9 +53,9 @@ OKDHP first propose to distill the pose structure knowledge in a one-stage manne
 - [**ACCV 2020**] **Online Knowledge Distillation via Multi-branch Diversity Enhancement**  
 **Zheng Li**, Ying Huang, Defang Chen, Tianren Luo, Ning Cai, Zhigeng Pan#. [[Paper](https://arxiv.org/abs/2010.00795)]
 
-<!-- - [**TVCG 2020**] **Dream-Experiment: A MR User Interface with Natural Multi-channel Interaction for Virtual Experiments.**  
+- [**TVCG 2020**] **Dream-Experiment: A MR User Interface with Natural Multi-channel Interaction for Virtual Experiments.**  
 Tinaren Luo, Mingmin Zhang#, Zhigeng Pan#, **Zheng Li**, Ning Cai, Jinda Miao, Youbin Chen, Mingxi Xu.
-[[Paper](https://ieeexplore.ieee.org/document/9199566)][[Demo](https://www.youtube.com/watch?v=XZetieva2VE)] -->
+[[Paper](https://ieeexplore.ieee.org/document/9199566)][[Demo](https://www.youtube.com/watch?v=XZetieva2VE)]
 
 
 # 🏆 Competitions

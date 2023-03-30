@@ -1,1 +1,1 @@
-bundle exec jekyll liveserve --incremental
+bundle exec jekyll liveserve
