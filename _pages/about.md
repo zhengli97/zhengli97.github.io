@@ -33,9 +33,7 @@ Email: zhengli97 [at] {mail.nankai.edu.cn, qq.com}
 [**AAAI 2023**]
 **Curriculum Temperature for Knowledge Distillation.**  
 **Zheng Li**, Xiang Li#, Lingfeng Yang, Borui Zhao, Renjie Song, Lei Luo, Jun Li, Jian Yang#.  
-
-[[Paper](https://arxiv.org/abs/2211.16231)][[Code](https://github.com/zhengli97/CTKD)]<img src="https://img.shields.io/github/stars/zhengli97/CTKD?style=social"/>[[中文解读](https://zhuanlan.zhihu.com/p/595735843)]
-
+[[Paper](https://arxiv.org/abs/2211.16231)][[Code](https://github.com/zhengli97/CTKD)]<img src="https://img.shields.io/github/stars/zhengli97/CTKD?style=social"/>[[中文解读](https://zhuanlan.zhihu.com/p/595735843)]  
 CTKD organizes the distillation task from easy to hard through a dynamic and learnable temperature. The temperature is learned during the student’s training process with a reversed gradient that aims to maximize the distillation loss in an adversarial manner.
 </div>
 </div>
@@ -47,9 +45,7 @@ CTKD organizes the distillation task from easy to hard through a dynamic and lea
 [**ICCV 2021**]
 **Online Knowledge Distillation for Efficient Pose Estimation.**  
 **Zheng Li**, Jingwen Ye, Mingli Song, Ying Huang, Zhigeng Pan#.  
-
-[[Paper](https://arxiv.org/abs/2108.02092)][[Code](https://github.com/zhengli97/OKDHP)]<img src="https://img.shields.io/github/stars/zhengli97/OKDHP?style=social"/>[[中文解读](https://zhuanlan.zhihu.com/p/399742423)]
-
+[[Paper](https://arxiv.org/abs/2108.02092)][[Code](https://github.com/zhengli97/OKDHP)]<img src="https://img.shields.io/github/stars/zhengli97/OKDHP?style=social"/>[[中文解读](https://zhuanlan.zhihu.com/p/399742423)]  
 OKDHP first propose to distill the pose structure knowledge in a one-stage manner.
 </div>
 </div>
@@ -72,22 +68,27 @@ Tinaren Luo, Mingmin Zhang#, Zhigeng Pan#, **Zheng Li**, Ning Cai, Jinda Miao, Y
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-- *2022.03* Outstanding Graduates of Zhejiang Province.
-- *2021.10* National Scholarship by Ministry of Education of China.   
+- *2022.03.* Outstanding Graduates of Zhejiang Province.
+- *2021.10.* National Scholarship by Ministry of Education of China.   
 
 # 🎓 Educations
 <!-- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-- *2022 - Now.* Ph.D. in Nankai University. Advised by Prof. [Xiang Li](http://implus.github.io/) and Prof. [Jian Yang](http://www.patternrecognition.asia/jian/).
-- *2019 - 2022.* M.S. in Hangzhou Normal University. Advised by Prof. [Zhigeng Pan](http://www.cad.zju.edu.cn/home/pzg/).  
-- *2015 - 2019.* B.S. in North China University of Science and Technology.  
+- *2022.09 - Present.* Ph.D. in Nankai University. Advised by Prof. [Xiang Li](http://implus.github.io/) and Prof. [Jian Yang](http://www.patternrecognition.asia/jian/).
+- *2019.09 - 2022.07.* M.S. in Hangzhou Normal University. Advised by Prof. [Zhigeng Pan](http://www.cad.zju.edu.cn/home/pzg/).  
+- *2015.09 - 2019.07.* B.S. in North China University of Science and Technology.  
 
 # 💻 Internships
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
-- *2021.10 - Now.* [Megvii Research](https://megvii.com/), Nanjing. Research Intern. Working with [Renjie Song](https://scholar.google.com/citations?user=-EgH8oIAAAAJ&hl=en).
-- *2021.10 - 2022.5.* [PCALab](http://www.patternrecognition.asia/), Nanjing University of Science and Technology. Visiting Student.
+- *2021.10 - Present.* [Megvii Research](https://megvii.com/), Nanjing. Research Intern. Working with [Renjie Song](https://scholar.google.com/citations?user=-EgH8oIAAAAJ&hl=en).
+- *2021.10 - 2022.05.* [PCALab](http://www.patternrecognition.asia/), Nanjing University of Science and Technology. Visiting Student.
 
 # 📃 Review Services
 - *2023*: AAAI, CVPR, ICML
-- *2022*: ECCV, NeurlPS  
+- *2022*: ECCV, NeurlPS
+
+# 🥳 Personal Hobbies
+
+- 🗻 Mountaineering. Snow mountains are my favorite. I will go mountaineering and hiking during the holidays. I like [Wu-kung Mountains](https://500px.com.cn/community/photo-details/4dd4e0dd4fc04d2ab2d4a9e77ed87dd1) and [Jade Dragon Snow Mountain](https://500px.com.cn/community/photo-details/7396936afa3042d89588d4369d571736). The Great Peak of Mount Siguniang is my next target.
+- 📸 Photography. I am a contracted photographer for [500px Gallery](https://500px.com.cn/). I use Sony A7M4 camera with Sigma 35mm F1.4 DG DN, Tamron 28-200mm F2.8-5.6 and Tamron 17-28mm F2.8 lens.
