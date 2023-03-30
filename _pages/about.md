@@ -8,51 +8,86 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
+# 💤 About Me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a first-year Ph.D. student at Visual Computing and Intelligent Perception (VCIP) Lab, [Nankai University](https://en.nankai.edu.cn/), advised by Prof. [Xiang Li](http://implus.github.io/) and Prof. [Jian Yang](http://www.patternrecognition.asia/jian/). I am also a research intern at [Megvii Research](https://megvii.com/), working with [Renjie Song](https://scholar.google.com/citations?user=-EgH8oIAAAAJ&hl=en).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes knowledge distillation and self-supervised learning. If you would like to talk about research ideas or my current research works, feel free to contact me via email.
+
+Email: zhengli97 [at] {mail.nankai.edu.cn, qq.com}
+
+<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.11*: One paper is accepted by AAAI 2023.
 
-# 📝 Publications 
+# 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div>
+<!-- <div class="badge">AAAI 2023</div> -->
+<img src='images/AAAI_2023_CTKD.png' alt="sym" width=500></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[**AAAI 2023**]
+**Curriculum Temperature for Knowledge Distillation.**  
+**Zheng Li**, Xiang Li#, Lingfeng Yang, Borui Zhao, Renjie Song, Lei Luo, Jun Li, Jian Yang#.  
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[[Paper](https://arxiv.org/abs/2211.16231)][[Code](https://github.com/zhengli97/CTKD)]<img src="https://img.shields.io/github/stars/zhengli97/CTKD?style=social"/>[[中文解读](https://zhuanlan.zhihu.com/p/595735843)]
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+CTKD organizes the distillation task from easy to hard through a dynamic and learnable temperature. The temperature is learned during the student’s training process with a reversed gradient that aims to maximize the distillation loss in an adversarial manner.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div>
+<img src='images/ICCV_2021_OKDHP.png' alt="sym" width=500></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**ICCV 2021**]
+**Online Knowledge Distillation for Efficient Pose Estimation.**  
+**Zheng Li**, Jingwen Ye, Mingli Song, Ying Huang, Zhigeng Pan#.  
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[[Paper](https://arxiv.org/abs/2108.02092)][[Code](https://github.com/zhengli97/OKDHP)]<img src="https://img.shields.io/github/stars/zhengli97/OKDHP?style=social"/>[[中文解读](https://zhuanlan.zhihu.com/p/399742423)]
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+OKDHP first propose to distill the pose structure knowledge in a one-stage manner.
+</div>
+</div>
+
+- [**ACCV 2020**] **Online Knowledge Distillation via Multi-branch Diversity Enhancement**  
+**Zheng Li**, Ying Huang, Defang Chen, Tianren Luo, Ning Cai, Zhigeng Pan#. [[Paper](https://arxiv.org/abs/2010.00795)]
+
+<!-- - [**TVCG 2020**] **Dream-Experiment: A MR User Interface with Natural Multi-channel Interaction for Virtual Experiments.**  
+Tinaren Luo, Mingmin Zhang#, Zhigeng Pan#, **Zheng Li**, Ning Cai, Jinda Miao, Youbin Chen, Mingxi Xu.
+[[Paper](https://ieeexplore.ieee.org/document/9199566)][[Demo](https://www.youtube.com/watch?v=XZetieva2VE)] -->
+
+
+# 🏆 Competitions
+- [Kaggle](https://www.kaggle.com) **Competition Master**. 2 Gold Medal [[My Profile](https://www.kaggle.com/mdlszhengli)] (Now Retired)
+  - *2019.11*. Understanding Clouds from Satellite Images. Rank: 7/1538 (Top 1%) **Gold Medal** [[Link](https://www.kaggle.com/c/understanding_cloud_organization)][[Solution](https://www.kaggle.com/c/understanding_cloud_organization/discussion/117974)]
+  - *2018.04*. 2018 Data Science Bowl. Rank: 8/3634 (Top 1%) **Solo Gold Medal** [[Link](https://www.kaggle.com/c/data-science-bowl-2018)] [[Solution](https://www.kaggle.com/c/data-science-bowl-2018/discussion/54838#316229)]
+
+
+# 🖖🏻 Honors and Awards
+<!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+- *2022.03* Outstanding Graduates of Zhejiang Province.
+- *2021.10* National Scholarship by Ministry of Education of China.   
+
+# 🎓 Educations
+<!-- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+- *2022 - Now.* Ph.D. in Nankai University. Advised by Prof. [Xiang Li](http://implus.github.io/) and Prof. [Jian Yang](http://www.patternrecognition.asia/jian/).
+- *2019 - 2022.* M.S. in Hangzhou Normal University. Advised by Prof. [Zhigeng Pan](http://www.cad.zju.edu.cn/home/pzg/).  
+- *2015 - 2019.* B.S. in North China University of Science and Technology.  
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+- *2021.10 - Now.* [Megvii Research](https://megvii.com/), Nanjing. Research Intern. Working with [Renjie Song](https://scholar.google.com/citations?user=-EgH8oIAAAAJ&hl=en).
+- *2021.10 - 2022.5.* [PCALab](http://www.patternrecognition.asia/), Nanjing University of Science and Technology. Visiting Student.
+
+# 📃 Review Services
+- *2023*: AAAI, CVPR, ICML
+- *2022*: ECCV, NeurlPS  
