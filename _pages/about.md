@@ -11,7 +11,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About Me
 
-I am currently a first-year Ph.D. student at Visual Computing and Intelligent Perception (VCIP) Lab, [Nankai University](https://en.nankai.edu.cn/), advised by Prof. [Xiang Li](http://implus.github.io/) and Prof. [Jian Yang](http://www.patternrecognition.asia/jian/). I am also a research intern at [Megvii Research](https://megvii.com/), working with [Renjie Song](https://scholar.google.com/citations?user=-EgH8oIAAAAJ&hl=en).
+I am currently a first-year Ph.D. student at Visual Computing and Intelligent Perception (VCIP) Lab, [Nankai University](https://en.nankai.edu.cn/), advised by Prof. [Xiang Li](http://implus.github.io/) and Prof. [Jian Yang](http://www.patternrecognition.asia/jian/). I am also a research intern at [Megvii Research](https://megvii.com/), led by [Renjie Song](https://scholar.google.com/citations?user=-EgH8oIAAAAJ&hl=en).
 
 My research interest includes knowledge distillation and self-supervised learning. If you would like to talk about research ideas or my current research works, feel free to contact me via email.
 
@@ -51,8 +51,17 @@ OKDHP first proposes to distill the pose structure knowledge in a one-stage mann
 </div>
 </div>
 
-- [**ACCV 2020**] **Online Knowledge Distillation via Multi-branch Diversity Enhancement**  
-**Zheng Li**, Ying Huang, Defang Chen, Tianren Luo, Ning Cai, Zhigeng Pan#. [[Paper](https://arxiv.org/abs/2010.00795)]
+<div class='paper-box'><div class='paper-box-image'><div>
+<img src='images/ACCV_2020_OKDMDE.png' alt="sym" width=500></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**ACCV 2020**] 
+**Online Knowledge Distillation via Multi-branch Diversity Enhancement.**  
+**Zheng Li**, Ying Huang, Defang Chen, Tianren Luo, Ning Cai, Zhigeng Pan#.  
+[[Paper](https://arxiv.org/abs/2010.00795)]  
+OKDMDE is a simple and effetive technique to enhance model diversity in online knowledge distillation.
+</div>
+</div>
 
 - [**TVCG 2020**] **Dream-Experiment: A MR User Interface with Natural Multi-channel Interaction for Virtual Experiments.**  
 Tinaren Luo, Mingmin Zhang#, Zhigeng Pan#, **Zheng Li**, Ning Cai, Jinda Miao, Youbin Chen, Mingxi Xu.
@@ -82,7 +91,7 @@ Tinaren Luo, Mingmin Zhang#, Zhigeng Pan#, **Zheng Li**, Ning Cai, Jinda Miao, Y
 
 # Internships
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
-- *2021.10 - Present.* [Megvii Research](https://megvii.com/), Nanjing. Research Intern. Working with [Renjie Song](https://scholar.google.com/citations?user=-EgH8oIAAAAJ&hl=en).
+- *2021.10 - Present.* [Megvii Research](https://megvii.com/), Nanjing. Research Intern. Led by [Renjie Song](https://scholar.google.com/citations?user=-EgH8oIAAAAJ&hl=en).
 - *2021.10 - 2022.05.* [PCALab](http://www.patternrecognition.asia/), Nanjing University of Science and Technology. Visiting Student.
 
 # Review Services
