@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+<div>
+<img src='images/rain.jpg' alt="sym" align="center" ></div>
+<hr />
+
 <span class='anchor' id='about-me'></span>
 # About Me
 
@@ -15,13 +19,15 @@ I am currently a first-year Ph.D. student at Visual Computing and Intelligent Pe
 
 My research interest includes knowledge distillation and self-supervised learning. If you would like to talk about research ideas or my current research works, feel free to contact me via email.
 
+Also, I love Mountaineering 🗻 and Photography 📸. I am a contracted photographer for [500px Gallery](https://500px.com.cn/). I use a Sony A7M4 camera with Sigma 35mm F1.4 DG DN, Tamron 28-200mm F2.8-5.6, and Tamron 17-28mm F2.8 lens.
+
 Email: zhengli97 [at] {mail.nankai.edu.cn, qq.com}
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # News
-- *2022.11*: One paper is accepted by AAAI 2023.
+- *2022.11*: One paper accepted at AAAI 2023.
 - *2022.09*: I start a new journey as a Ph.D. student at Nankai University.
 
 # Publications
@@ -97,8 +103,3 @@ Tinaren Luo, Mingmin Zhang#, Zhigeng Pan#, **Zheng Li**, Ning Cai, Jinda Miao, Y
 # Review Services
 - *2023*: AAAI, CVPR, ICML
 - *2022*: ECCV, NeurlPS
-
-# Personal Hobbies
-
-- 🗻 Mountaineering. Snow mountains are my favorite. I will go mountaineering and hiking during the holidays. I like [Wu-kung Mountains](https://500px.com.cn/community/photo-details/4dd4e0dd4fc04d2ab2d4a9e77ed87dd1) and [Jade Dragon Snow Mountain](https://500px.com.cn/community/photo-details/7396936afa3042d89588d4369d571736). The Great Peak of Mount Siguniang is my next climbing goal.
-- 📸 Photography. I am a contracted photographer for [500px Gallery](https://500px.com.cn/). I use a Sony A7M4 camera with Sigma 35mm F1.4 DG DN, Tamron 28-200mm F2.8-5.6, and Tamron 17-28mm F2.8 lens.
