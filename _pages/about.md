@@ -16,11 +16,10 @@ redirect_from:
 # About Me
 
 I am currently a first-year Ph.D. student at Visual Computing and Intelligent Perception (VCIP) Lab, [Nankai University](https://en.nankai.edu.cn/), advised by Prof. [Xiang Li](http://implus.github.io/) and Prof. [Jian Yang](http://www.patternrecognition.asia/jian/). I am also a research intern at [Megvii Research](https://megvii.com/), led by [Renjie Song](https://scholar.google.com/citations?user=-EgH8oIAAAAJ&hl=en).
-
 My research interest includes knowledge distillation and self-supervised learning. 
-If you would like to talk about research ideas or my current research works, feel free to contact me via email.
+<!-- If you would like to talk about research ideas or my current research works, feel free to contact me via email. -->
 
-<!-- Also, I love Mountaineering 🗻 and Photography 📸. I am a contracted photographer for [500px Gallery](https://500px.com.cn/).  -->
+Also, I love Mountaineering 🗻 and Photography 📸. I am a contracted photographer for [500px Gallery](https://500px.com.cn/). 
 <!-- I use a Sony A7M4 camera with Sigma 35mm F1.4 DG DN, Tamron 28-200mm F2.8-5.6, and Tamron 17-28mm F2.8 lens. -->
 
 Email: zhengli97 [at] {mail.nankai.edu.cn, qq.com}
@@ -74,9 +73,10 @@ Tinaren Luo, Mingmin Zhang#, Zhigeng Pan#, **Zheng Li**, Ning Cai, Jinda Miao, Y
 
 
 # Competitions
-- Kaggle **Competition Master**. 2 Gold Medals. [[My Profile](https://www.kaggle.com/mdlszhengli)]
+- [Kaggle](https://kaggle.com/) **Competition Master**. 2 Gold Medals. [[My Profile](https://www.kaggle.com/mdlszhengli)]
   - *2019.11*. Understanding Clouds from Satellite Images. Rank: 7/1538 (Top 1%). **Gold Medal** [[Link](https://www.kaggle.com/c/understanding_cloud_organization)][[Solution](https://www.kaggle.com/c/understanding_cloud_organization/discussion/117974)]
   - *2018.04*. 2018 Data Science Bowl. Rank: 8/3634 (Top 1%). **Solo Gold Medal** [[Link](https://www.kaggle.com/c/data-science-bowl-2018)] [[Solution](https://www.kaggle.com/c/data-science-bowl-2018/discussion/54838#316229)]
+- *2018.06.* [RoboMaster Robotics Competition](https://www.robomaster.com/en-US). Second Prize in National Competition.
 
 # Honors and Awards
 
