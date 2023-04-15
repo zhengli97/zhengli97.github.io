@@ -32,7 +32,7 @@ Email: zhengli97 [at] {mail.nankai.edu.cn, qq.com}
 
 <div class='paper-box'><div class='paper-box-image'><div>
 <!-- <div class="badge">AAAI 2023</div> -->
-<img src='images/AAAI_2023_CTKD.png' alt="sym" width=500></div></div>
+<img src='images/AAAI_2023_CTKD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**AAAI 2023**]
@@ -44,7 +44,7 @@ CTKD organizes the distillation task from easy to hard through a dynamic and lea
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div>
-<img src='images/ICCV_2021_OKDHP.png' alt="sym" width=500></div></div>
+<img src='images/ICCV_2021_OKDHP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**ICCV 2021**]
@@ -56,7 +56,7 @@ OKDHP first proposes to distill the pose structure knowledge in a one-stage mann
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div>
-<img src='images/ACCV_2020_OKDMDE.png' alt="sym" width=500></div></div>
+<img src='images/ACCV_2020_OKDMDE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**ACCV 2020**] 
