@@ -24,6 +24,15 @@ Also, I love Mountaineering 🗻 and Photography 📸. I am a contracted photogr
 
 Email: zhengli97 [at] {mail.nankai.edu.cn, qq.com}
 
+**中文版：**
+
+一只24K科研萌新，科研成果寥寥，水平有限，但十分热爱自己所从事的领域，立志能够像我的导师们一样能做出简单，高效且易用的工作(PCA, SKNet, GFL等)，研究成果能够在学术界/工业界发挥作用，实质性的解决问题，而不是一纸垃圾。
+
+我的paper代码都会尽可能做到开源，并且附上了对应的中文论文解读，可能会有点碎碎念，但会尽量将paper的动机，解决方式和思路一并详细呈现，欢迎参考和反馈。
+
+科研之路不易，如果你对我的研究感兴趣或者遇到了什么研究上的问题，欢迎通过邮箱跟我联系交流。
+
+
 # News
 - *2022.11*: One paper accepted at AAAI 2023.
 - *2022.09*: I start a new journey as a Ph.D. student at Nankai University.
