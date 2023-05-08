@@ -17,21 +17,18 @@ redirect_from:
 
 I am currently a first-year Ph.D. student at Visual Computing and Intelligent Perception (VCIP) Lab, [Nankai University](https://en.nankai.edu.cn/), advised by Prof. [Xiang Li](http://implus.github.io/) and Prof. [Jian Yang](http://www.patternrecognition.asia/jian/). I am also a research intern at [Megvii Research](https://megvii.com/), led by [Renjie Song](https://scholar.google.com/citations?user=-EgH8oIAAAAJ&hl=en).
 My research interest includes knowledge distillation and self-supervised learning. 
-<!-- If you would like to talk about research ideas or my current research works, feel free to contact me via email. -->
 
-Also, I love Mountaineering 🗻 and Photography 📸. I am a contracted photographer for [500px Gallery](https://500px.com.cn/). 
+As a novice in scientific research with limited experience and a few published papers, I have a deep passion for my field and aspire to conduct research that is simple, efficient, and impactful, like my mentors' work on PCA, SKNet, and GFL. I hope that my research can make a meaningful contribution to academia and industry by addressing real-world problems in a substantive way, rather than producing insignificant results.
+
+
 <!-- I use a Sony A7M4 camera with Sigma 35mm F1.4 DG DN, Tamron 28-200mm F2.8-5.6, and Tamron 17-28mm F2.8 lens. -->
 
-Email: zhengli97 [at] {mail.nankai.edu.cn, qq.com}
 
-**中文版：**
+The code of my research work will be open-source, and I will also attach a detailed Chinese interpretation of the paper. Although the interpretation may be somewhat fragmented, I will do my best to present the motivation and ideas of the paper in detail.
 
-一只24K科研萌新，科研成果寥寥，水平有限，但十分热爱自己所从事的领域，立志能够像我的导师们一样能做出简单，高效且易用的工作(PCA, SKNet, GFL等)，研究成果能够在学术界/工业界发挥作用，实质性的解决问题，而不是一纸垃圾。
+The journey of scientific research is challenging, but I'm passionate about my work. If you're interested in my research or encounter any research problems, please feel free to contact me via email (zhengli97 [at] {mail.nankai.edu.cn, qq.com}).
 
-我的paper代码都会尽可能做到开源，并且附上了对应的中文论文解读，可能会有点碎碎念，但会尽量将paper的动机，解决方式和思路一并详细呈现，欢迎参考和反馈。
-
-科研之路不易，如果你对我的研究感兴趣或者遇到了什么研究上的问题，欢迎通过邮箱跟我联系交流。
-
+Also, I love Mountaineering 🗻 and Photography 📸. I am a contracted photographer for [500px Gallery](https://500px.com.cn/). 
 
 # News
 - *2022.11*: One paper accepted at AAAI 2023.
@@ -103,5 +100,5 @@ Tinaren Luo, Mingmin Zhang#, Zhigeng Pan#, **Zheng Li**, Ning Cai, Jinda Miao, Y
 - *2021.10 - 2022.05.* [PCALab](http://www.patternrecognition.asia/), Nanjing University of Science and Technology. Visiting Student.
 
 # Review Services
-- *2023*: AAAI, CVPR, ICML
+- *2023*: AAAI, CVPR, ICML, NeurlPS
 - *2022*: ECCV, NeurlPS
