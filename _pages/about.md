@@ -18,13 +18,11 @@ redirect_from:
 I am currently a first-year Ph.D. student at Visual Computing and Intelligent Perception (VCIP) Lab, [Nankai University](https://en.nankai.edu.cn/), advised by Prof. [Xiang Li](http://implus.github.io/) and Prof. [Jian Yang](http://www.patternrecognition.asia/jian/). I am also a research intern at [Megvii Research](https://megvii.com/), led by [Renjie Song](https://scholar.google.com/citations?user=-EgH8oIAAAAJ&hl=en).
 My research interest includes knowledge distillation and self-supervised learning. 
 
-As a novice in scientific research with limited experience and a few published papers, I have a deep passion for my field and aspire to conduct research that is simple, efficient, and impactful, like my mentors' work on PCA, SKNet, and GFL. I hope that my research can make a meaningful contribution to academia and industry by addressing real-world problems in a substantive way, rather than producing insignificant results.
-
 
 <!-- I use a Sony A7M4 camera with Sigma 35mm F1.4 DG DN, Tamron 28-200mm F2.8-5.6, and Tamron 17-28mm F2.8 lens. -->
 
 
-The code of my research work will be open-source, and I will also attach a detailed Chinese interpretation of the paper. Although the interpretation may be somewhat fragmented, I will do my best to present the motivation and ideas of the paper in detail.
+The code of my research work will be open-source, and I will also attach a detailed Chinese interpretation of the paper. Although the interpretation may be somewhat fragmented, I will do my best to present the insights and ideas behind the paper.
 
 The journey of scientific research is challenging, but I'm passionate about my work. If you're interested in my research or encounter any research problems, please feel free to contact me via email (zhengli97 [at] {mail.nankai.edu.cn, qq.com}).
 
