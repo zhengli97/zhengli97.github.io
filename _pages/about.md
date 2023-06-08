@@ -26,9 +26,9 @@ The code of my research work will be open-source, and I will also attach a detai
 
 The journey of scientific research is challenging, but I'm passionate about my work. If you're interested in my research or encounter any research problems, please feel free to contact me via email (zhengli97 [at] {mail.nankai.edu.cn, qq.com}).
 
-Also, I love:
+<!-- Also, I love:
 - Trekking and Mountaineering 🗻.  I have summited [Haba Snow Mountain](https://en.wikipedia.org/wiki/Haba_Snow_Mountain) (5396m ASL).
-- Photography 📸. I am a contracted photographer for [500px Gallery](https://500px.com.cn/). 
+- Photography 📸. I am a contracted photographer for [500px Gallery](https://500px.com.cn/).  -->
 
 # News
 - *2022.11*: One paper accepted at AAAI 2023.
