@@ -16,11 +16,9 @@ redirect_from:
 # About Me
 
 I am currently a first-year Ph.D. student at Visual Computing and Intelligent Perception (VCIP) Lab, [Nankai University](https://en.nankai.edu.cn/), advised by Prof. [Xiang Li](http://implus.github.io/) and Prof. [Jian Yang](http://www.patternrecognition.asia/jian/). I am also a research intern at [Megvii Research](https://megvii.com/), led by [Renjie Song](https://scholar.google.com/citations?user=-EgH8oIAAAAJ&hl=en).
-My research interest includes knowledge distillation and self-supervised learning. 
-
+My research interest includes knowledge distillation and diffusion models. 
 
 <!-- I use a Sony A7M4 camera with Sigma 35mm F1.4 DG DN, Tamron 28-200mm F2.8-5.6, and Tamron 17-28mm F2.8 lens. -->
-
 
 The code of my research work will be open-source, and I will also attach a detailed Chinese interpretation of the paper. Although the interpretation may be somewhat fragmented, I will do my best to present the insights and ideas behind the paper.
 
