@@ -41,7 +41,7 @@ The journey of scientific research is challenging, but I'm passionate about my w
 
 [**AAAI 2023**]
 **Curriculum Temperature for Knowledge Distillation.**  
-**Zheng Li**, Xiang Li#, Lingfeng Yang, Borui Zhao, Renjie Song, Lei Luo, Jun Li, Jian Yang#.  
+**Zheng Li**, Xiang Li, Lingfeng Yang, Borui Zhao, Renjie Song, Lei Luo, Jun Li, Jian Yang.  
 [[Paper](https://arxiv.org/abs/2211.16231)][[Code](https://github.com/zhengli97/CTKD)]<img src="https://img.shields.io/github/stars/zhengli97/CTKD?style=social"/>[[中文解读](https://zhuanlan.zhihu.com/p/595735843)]  
 CTKD organizes the distillation task from easy to hard through a dynamic and learnable temperature. The temperature is learned during the student’s training process with a reversed gradient that aims to maximize the distillation loss in an adversarial manner.
 </div>
@@ -53,7 +53,7 @@ CTKD organizes the distillation task from easy to hard through a dynamic and lea
 
 [**ICCV 2021**]
 **Online Knowledge Distillation for Efficient Pose Estimation.**  
-**Zheng Li**, Jingwen Ye, Mingli Song, Ying Huang, Zhigeng Pan#.  
+**Zheng Li**, Jingwen Ye, Mingli Song, Ying Huang, Zhigeng Pan.  
 [[Paper](https://arxiv.org/abs/2108.02092)][[Code](https://github.com/zhengli97/OKDHP)]<img src="https://img.shields.io/github/stars/zhengli97/OKDHP?style=social"/>[[中文解读](https://zhuanlan.zhihu.com/p/399742423)]  
 OKDHP first proposes to distill the pose structure knowledge in a one-stage manner.
 </div>
@@ -65,7 +65,7 @@ OKDHP first proposes to distill the pose structure knowledge in a one-stage mann
 
 [**ACCV 2020**] 
 **Online Knowledge Distillation via Multi-branch Diversity Enhancement.**  
-**Zheng Li**, Ying Huang, Defang Chen, Tianren Luo, Ning Cai, Zhigeng Pan#.  
+**Zheng Li**, Ying Huang, Defang Chen, Tianren Luo, Ning Cai, Zhigeng Pan.  
 [[Paper](https://arxiv.org/abs/2010.00795)]  
 OKDMDE is a simple and effetive technique to enhance model diversity in online knowledge distillation.
 </div>
