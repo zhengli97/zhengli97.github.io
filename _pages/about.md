@@ -15,7 +15,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About Me
 
-I am currently a first-year Ph.D. student at Visual Computing and Intelligent Perception (VCIP) Lab, [Nankai University](https://en.nankai.edu.cn/), advised by Prof. [Xiang Li](http://implus.github.io/) and Prof. [Jian Yang](http://www.patternrecognition.asia/jian/). I am also a research intern at [Megvii Research](https://megvii.com/), led by [Renjie Song](https://scholar.google.com/citations?user=-EgH8oIAAAAJ&hl=en).
+I am currently a first-year Ph.D. student at Visual Computing and Intelligent Perception (VCIP) Lab, [Nankai University](https://en.nankai.edu.cn/), advised by Prof. [Xiang Li](http://implus.github.io/) and Prof. [Jian Yang](http://www.patternrecognition.asia/jian/).
 My research interest includes knowledge distillation and diffusion models. 
 
 <!-- I use a Sony A7M4 camera with Sigma 35mm F1.4 DG DN, Tamron 28-200mm F2.8-5.6, and Tamron 17-28mm F2.8 lens. -->
@@ -71,13 +71,6 @@ OKDMDE is a simple and effective technique to enhance model diversity in online 
 </div>
 </div>
 
-<!-- - [**TVCG 2020**] **Dream-Experiment: A MR User Interface with Natural Multi-channel Interaction for Virtual Experiments.**  
-Tinaren Luo, Mingmin Zhang#, Zhigeng Pan#, **Zheng Li**, Ning Cai, Jinda Miao, Youbin Chen, Mingxi Xu.
-[[Paper](https://ieeexplore.ieee.org/document/9199566)][[Demo](https://www.youtube.com/watch?v=XZetieva2VE)] -->
-
-- [CVIU 2023] GEIKD: Self-knowledge distillation based on gated ensemble networks and influences-based label noise removal.  
-Fuchang Liu, Yu Wang, Zheng Li, Zhigeng Pan. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314223001510?via%3Dihub)]
-
 # Competitions
 - [Kaggle](https://kaggle.com/) **Competition Master**. 2 Gold Medals. [[My Profile](https://www.kaggle.com/mdlszhengli)]
   - *2019.11*. Understanding Clouds from Satellite Images. Rank: 7/1538 (Top 1%). **Gold Medal** [[Link](https://www.kaggle.com/c/understanding_cloud_organization)][[Solution](https://www.kaggle.com/c/understanding_cloud_organization/discussion/117974)]
@@ -96,11 +89,10 @@ Fuchang Liu, Yu Wang, Zheng Li, Zhigeng Pan. [[Paper](https://www.sciencedirect.
 - *2015.09 - 2019.07.* B.S. in North China University of Science and Technology.   -->
 
 # Internships
-- *2021.10 - Present.* [Megvii Research](https://megvii.com/), Nanjing. Research Intern. Led by [Renjie Song](https://scholar.google.com/citations?user=-EgH8oIAAAAJ&hl=en).
+- *2021.10 - 2023.07.* [Megvii Research](https://megvii.com/), Nanjing. Research Intern. Led by [Renjie Song](https://scholar.google.com/citations?user=-EgH8oIAAAAJ&hl=en).
 - *2021.10 - 2022.05.* [PCALab](http://www.patternrecognition.asia/), Nanjing University of Science and Technology. Visiting Student.
 
 # Review Services
-- *2023*: AAAI, CVPR, ICML, NeurlPS
-- *2022*: ECCV, NeurlPS
+- *2022 - Present.* AAAI, ECCV, CVPR, ICML, NeurlPS, KBS
 
 
