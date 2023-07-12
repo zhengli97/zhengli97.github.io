@@ -67,7 +67,7 @@ OKDHP first proposes to distill the pose structure knowledge in a one-stage mann
 **Online Knowledge Distillation via Multi-branch Diversity Enhancement.**  
 **Zheng Li**, Ying Huang, Defang Chen, Tianren Luo, Ning Cai, Zhigeng Pan.  
 [[Paper](https://arxiv.org/abs/2010.00795)]  
-OKDMDE is a simple and effetive technique to enhance model diversity in online knowledge distillation.
+OKDMDE is a simple and effective technique to enhance model diversity in online knowledge distillation.
 </div>
 </div>
 
@@ -75,6 +75,8 @@ OKDMDE is a simple and effetive technique to enhance model diversity in online k
 Tinaren Luo, Mingmin Zhang#, Zhigeng Pan#, **Zheng Li**, Ning Cai, Jinda Miao, Youbin Chen, Mingxi Xu.
 [[Paper](https://ieeexplore.ieee.org/document/9199566)][[Demo](https://www.youtube.com/watch?v=XZetieva2VE)] -->
 
+- [CVIU 2023] GEIKD: Self-knowledge distillation based on gated ensemble networks and influences-based label noise removal.  
+Fuchang Liu, Yu Wang, Zheng Li, Zhigeng Pan. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314223001510?via%3Dihub)]
 
 # Competitions
 - [Kaggle](https://kaggle.com/) **Competition Master**. 2 Gold Medals. [[My Profile](https://www.kaggle.com/mdlszhengli)]
