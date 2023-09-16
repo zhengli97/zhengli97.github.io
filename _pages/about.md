@@ -15,7 +15,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About Me
 
-I am currently a second-year Ph.D. student at Visual Computing and Intelligent Perception (VCIP) Lab, [Nankai University](https://en.nankai.edu.cn/), advised by Prof. [Xiang Li](http://implus.github.io/) and Prof. [Jian Yang](http://www.patternrecognition.asia/jian/).
+I am currently a second-year Ph.D. student at Visual Computing and Intelligent Perception (VCIP) Lab, [Nankai University](https://en.nankai.edu.cn/), advised by Prof. [Xiang Li](http://implus.github.io/) and Prof. [Jian Yang](http://www.patternrecognition.asia/jian/). I am also a reserach intern at [Ant Group](https://www.antgroup.com/).
 My research interest includes knowledge distillation and LLMs. 
 
 <!-- I use a Sony A7M4 camera with Sigma 35mm F1.4 DG DN, Tamron 28-200mm F2.8-5.6, and Tamron 17-28mm F2.8 lens. -->
@@ -89,11 +89,14 @@ OKDMDE is a simple and effective technique to enhance model diversity in online 
 - *2015.09 - 2019.07.* B.S. in North China University of Science and Technology.   -->
 
 # Internships
-- *2023.08 - Present.* [Ant Group](https://www.antgroup.com/), Hangzhou. Research Intern.
+- *2023.08 - Present.* [Ant Group](https://www.antgroup.com/), Hangzhou. Research Intern. 
 - *2021.10 - 2023.08.* [Megvii Research](https://megvii.com/), Nanjing. Research Intern. Led by [Renjie Song](https://scholar.google.com/citations?user=-EgH8oIAAAAJ&hl=en).
 - *2021.10 - 2022.05.* [PCALab](http://www.patternrecognition.asia/), Nanjing University of Science and Technology. Visiting Student.
 
 # Review Services
 - *2022 - Present.* AAAI, ECCV, CVPR, ICML, NeurlPS, KBS, ICLR...
 
+# Misc
+- Photography. Some [photos](https://500px.com.cn/zhengliphoto) I took while traveling and mountaineering.
+- Mountaineering. Summit: [Haba Snow Mountain](https://en.wikipedia.org/wiki/Haba_Snow_Mountain) (5396m)
 
