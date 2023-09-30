@@ -28,9 +28,9 @@ The journey of scientific research is challenging, but I'm passionate about my w
 - Trekking and Mountaineering 🗻.  I have summited [Haba Snow Mountain](https://en.wikipedia.org/wiki/Haba_Snow_Mountain) (5396m ASL).
 - Photography 📸. I am a contracted photographer for [500px Gallery](https://500px.com.cn/).  -->
 
-# News
+<!-- # News
 - *2022.11*: One paper accepted at AAAI 2023.
-- *2022.09*: I start a new journey as a Ph.D. student at Nankai University.
+- *2022.09*: I start a new journey as a Ph.D. student at Nankai University. -->
 
 # Publications
 
