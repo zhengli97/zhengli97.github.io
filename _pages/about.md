@@ -15,7 +15,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About Me
 
-I am currently a second-year Ph.D. student at Visual Computing and Intelligent Perception (VCIP) Lab, [Nankai University](https://en.nankai.edu.cn/), advised by Prof. [Xiang Li](http://implus.github.io/) and Prof. [Jian Yang](http://www.patternrecognition.asia/jian/). I am also a reserach intern at [Ant Group](https://www.antgroup.com/).
+I am currently a second-year Ph.D. student at Visual Computing and Intelligent Perception (VCIP) Lab, [Nankai University](https://en.nankai.edu.cn/), advised by Prof. [Xiang Li](http://implus.github.io/) and Prof. [Jian Yang](http://www.patternrecognition.asia/jian/). I am also a research intern at [Ant Group](https://www.antgroup.com/).
 My research interest includes knowledge distillation and LLMs. 
 
 <!-- I use a Sony A7M4 camera with Sigma 35mm F1.4 DG DN, Tamron 28-200mm F2.8-5.6, and Tamron 17-28mm F2.8 lens. -->
@@ -75,23 +75,22 @@ OKDMDE is a simple and effective technique to enhance model diversity in online 
 - [Kaggle](https://kaggle.com/) **Competition Master**. 2 Gold Medals. [[My Profile](https://www.kaggle.com/mdlszhengli)]
   - *2019.11*. Understanding Clouds from Satellite Images. Rank: 7/1538 (Top 1%). **Gold Medal** [[Link](https://www.kaggle.com/c/understanding_cloud_organization)][[Solution](https://www.kaggle.com/c/understanding_cloud_organization/discussion/117974)]
   - *2018.04*. 2018 Data Science Bowl. Rank: 8/3634 (Top 1%). **Solo Gold Medal** [[Link](https://www.kaggle.com/c/data-science-bowl-2018)] [[Solution](https://www.kaggle.com/c/data-science-bowl-2018/discussion/54838#316229)]
-- *2018.06.* [RoboMaster Robotics Competition](https://www.robomaster.com/en-US). Second Prize in National Competition.
+- *2018.06.* [RoboMaster Robotics Competition](https://www.robomaster.com/en-US). Second Prize in National Competition. [[Our Team](https://www.robomaster.com/zh-CN/resource/pages/activities/928)]
 
 # Honors and Awards
-
 - *2022.03.* Outstanding Graduates of Zhejiang Province.
 - *2021.10.* National Scholarship by Ministry of Education of China.
   
-<!-- # Educations
-
-- *2022.09 - Present.* Ph.D. in Nankai University. Advised by Prof. [Xiang Li](http://implus.github.io/) and Prof. [Jian Yang](http://www.patternrecognition.asia/jian/).
-- *2019.09 - 2022.07.* M.S. in Hangzhou Normal University. Advised by Prof. [Zhigeng Pan](http://www.cad.zju.edu.cn/home/pzg/).  
-- *2015.09 - 2019.07.* B.S. in North China University of Science and Technology.   -->
-
 # Internships
 - *2023.08 - Present.* [Ant Group](https://www.antgroup.com/), Hangzhou. Research Intern. 
 - *2021.10 - 2023.08.* [Megvii Research](https://megvii.com/), Nanjing. Research Intern. Led by [Renjie Song](https://scholar.google.com/citations?user=-EgH8oIAAAAJ&hl=en).
 - *2021.10 - 2022.05.* [PCALab](http://www.patternrecognition.asia/), Nanjing University of Science and Technology. Visiting Student.
+
+
+# Educations
+- *2022.09 - Present.* Ph.D. in Nankai University. Advised by Prof. [Xiang Li](https://scholar.google.com/citations?user=oamjJdYAAAAJ&hl=en) and Prof. [Jian Yang](https://scholar.google.com.hk/citations?user=6CIDtZQAAAAJ&hl=en).
+- *2019.09 - 2022.07.* M.S. in Hangzhou Normal University. Advised by Prof. [Zhigeng Pan](https://scholar.google.com/citations?user=XldCrGEAAAAJ&hl=en).  
+- *2015.09 - 2019.07.* B.S. in North China University of Science and Technology.
 
 # Review Services
 - *2022 - Present.* AAAI, ECCV, CVPR, ICML, NeurlPS, KBS, ICLR...
