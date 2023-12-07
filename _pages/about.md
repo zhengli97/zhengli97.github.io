@@ -16,7 +16,7 @@ redirect_from:
 # About Me
 
 I am currently a second-year Ph.D. student at Visual Computing and Intelligent Perception (VCIP) Lab, [Nankai University](https://en.nankai.edu.cn/), advised by Prof. [Xiang Li](http://implus.github.io/) and Prof. [Jian Yang](http://www.patternrecognition.asia/jian/). I am also a research intern at [Ant Group](https://www.antgroup.com/).
-My research interest includes knowledge distillation and LLMs. 
+My research mainly focuses on efficient model training/inferencing.
 
 <!-- I use a Sony A7M4 camera with Sigma 35mm F1.4 DG DN, Tamron 28-200mm F2.8-5.6, and Tamron 17-28mm F2.8 lens. -->
 
@@ -46,6 +46,7 @@ The journey of scientific research is challenging, but I'm passionate about my w
 CTKD organizes the distillation task from easy to hard through a dynamic and learnable temperature. The temperature is learned during the student’s training process with a reversed gradient that aims to maximize the distillation loss in an adversarial manner.
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div>
 <img src='images/ICCV_2021_OKDHP.png' alt="sym" width="100%"></div></div>
@@ -93,7 +94,7 @@ OKDMDE is a simple and effective technique to enhance model diversity in online 
 - *2015.09 - 2019.07.* B.S. in North China University of Science and Technology.
 
 # Review Services
-- *2022 - Present.* AAAI, ECCV, CVPR, ICML, NeurlPS, KBS, ICLR...
+- *2022 - Present.* AAAI, ECCV, CVPR, ICML, NeurlPS, ICLR, KBS, TNNLS...
 
 # Misc
 - Photography. Some [photos](https://500px.com.cn/zhengliphoto) I took while traveling and mountaineering.
