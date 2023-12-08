@@ -87,11 +87,11 @@ OKDMDE is a simple and effective technique to enhance model diversity in online 
 - *2021.10 - 2023.08.* [Megvii Research](https://megvii.com/), Nanjing. Research Intern. Led by [Renjie Song](https://scholar.google.com/citations?user=-EgH8oIAAAAJ&hl=en).
 - *2021.10 - 2022.05.* [PCALab](http://www.patternrecognition.asia/), Nanjing University of Science and Technology. Visiting Student.
 
-
+<!--
 # Educations
 - *2022.09 - Present.* Ph.D. in Nankai University. Advised by Prof. [Xiang Li](https://scholar.google.com/citations?user=oamjJdYAAAAJ&hl=en) and Prof. [Jian Yang](https://scholar.google.com.hk/citations?user=6CIDtZQAAAAJ&hl=en).
 - *2019.09 - 2022.07.* M.S. in Hangzhou Normal University. Advised by Prof. [Zhigeng Pan](https://scholar.google.com/citations?user=XldCrGEAAAAJ&hl=en).  
-- *2015.09 - 2019.07.* B.S. in North China University of Science and Technology.
+- *2015.09 - 2019.07.* B.S. in North China University of Science and Technology.-->
 
 # Review Services
 - *2022 - Present.* AAAI, ECCV, CVPR, ICML, NeurlPS, ICLR, KBS, TNNLS...
