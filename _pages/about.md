@@ -42,7 +42,7 @@ The journey of scientific research is challenging, but I'm passionate about my w
 [**AAAI 2023**]
 **Curriculum Temperature for Knowledge Distillation.**  
 **Zheng Li**, Xiang Li, Lingfeng Yang, Borui Zhao, Renjie Song, Lei Luo, Jun Li, Jian Yang.  
-[[Paper](https://arxiv.org/abs/2211.16231)][[Code](https://github.com/zhengli97/CTKD)]<img src="https://img.shields.io/github/stars/zhengli97/CTKD?style=social"/>[[中文解读](https://zhuanlan.zhihu.com/p/595735843)]  
+[[Paper](https://arxiv.org/abs/2211.16231)][[Code](https://github.com/zhengli97/CTKD)]<img src="https://img.shields.io/github/stars/zhengli97/CTKD?style=social"/>[[Project Page](https://zhengli97.github.io/CTKD/)][[中文解读](https://zhengli97.github.io/CTKD/chinese_interpertation.html)]  
 CTKD organizes the distillation task from easy to hard through a dynamic and learnable temperature. The temperature is learned during the student’s training process with a reversed gradient that aims to maximize the distillation loss in an adversarial manner.
 </div>
 </div>
