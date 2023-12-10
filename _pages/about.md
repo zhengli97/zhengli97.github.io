@@ -55,7 +55,7 @@ CTKD organizes the distillation task from easy to hard through a dynamic and lea
 [**ICCV 2021**]
 **Online Knowledge Distillation for Efficient Pose Estimation.**  
 **Zheng Li**, Jingwen Ye, Mingli Song, Ying Huang, Zhigeng Pan.  
-[[Paper](https://arxiv.org/abs/2108.02092)][[Code](https://github.com/zhengli97/OKDHP)]<img src="https://img.shields.io/github/stars/zhengli97/OKDHP?style=social"/>[[中文解读](https://zhuanlan.zhihu.com/p/399742423)]  
+[[Paper](https://arxiv.org/abs/2108.02092)][[Code](https://github.com/zhengli97/OKDHP)]<img src="https://img.shields.io/github/stars/zhengli97/OKDHP?style=social"/>[[Project Page](https://zhengli97.github.io/OKDHP/)][[中文解读](https://zhengli97.github.io/OKDHP/chinese_interpertation.html)]  
 OKDHP first proposes to distill the pose structure knowledge in a one-stage manner.
 </div>
 </div>
