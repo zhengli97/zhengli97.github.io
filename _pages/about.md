@@ -16,7 +16,7 @@ redirect_from:
 # About Me
 
 I am currently a second-year Ph.D. student at Visual Computing and Intelligent Perception (VCIP) Lab, [Nankai University](https://en.nankai.edu.cn/), advised by Prof. [Xiang Li](http://implus.github.io/) and Prof. [Jian Yang](http://www.patternrecognition.asia/jian/). I am also a research intern at [Ant Group](https://www.antgroup.com/).
-My research mainly focuses on efficient model training/inferencing.
+My research mainly focuses on efficient model computing.
 
 <!-- I use a Sony A7M4 camera with Sigma 35mm F1.4 DG DN, Tamron 28-200mm F2.8-5.6, and Tamron 17-28mm F2.8 lens. -->
 
@@ -35,6 +35,19 @@ The journey of scientific research is challenging, but I'm passionate about my w
 # Publications
 
 <div class='paper-box'><div class='paper-box-image'><div>
+<img src='images/CVPR_2024_PromptKD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**CVPR 2024**]
+**PromptKD: Unsupervised Prompt Distillation for Vision-Language Models.**  
+**Zheng Li**, Xiang Li, Xinyi Fu, Xing Zhang, Weiqiang Wang, Shuo Chen, Jian Yang.  
+[[Paper](https://arxiv.org/abs/2403.02781)][[Code](https://github.com/zhengli97/PromptKD)]<img src="https://img.shields.io/github/stars/zhengli97/PromptKD?style=social"/>[[Project Page](https://zhengli97.github.io/PromptKD/)][[中文解读](https://zhengli97.github.io/PromptKD/chinese_interpertation.html)]  
+PromptKD is a simple and effective prompt-driven unsupervised distillation framework for Vision-Language Models.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div>
 <!-- <div class="badge">AAAI 2023</div> -->
 <img src='images/AAAI_2023_CTKD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -43,7 +56,8 @@ The journey of scientific research is challenging, but I'm passionate about my w
 **Curriculum Temperature for Knowledge Distillation.**  
 **Zheng Li**, Xiang Li, Lingfeng Yang, Borui Zhao, Renjie Song, Lei Luo, Jun Li, Jian Yang.  
 [[Paper](https://arxiv.org/abs/2211.16231)][[Code](https://github.com/zhengli97/CTKD)]<img src="https://img.shields.io/github/stars/zhengli97/CTKD?style=social"/>[[Project Page](https://zhengli97.github.io/CTKD/)][[中文解读](https://zhengli97.github.io/CTKD/chinese_interpertation.html)]  
-CTKD organizes the distillation task from easy to hard through a dynamic and learnable temperature. The temperature is learned during the student’s training process with a reversed gradient that aims to maximize the distillation loss in an adversarial manner.
+CTKD organizes the distillation task from easy to hard through a dynamic and learnable temperature. 
+The temperature is learned during the student’s training process with a reversed gradient that aims to maximize the distillation loss in an adversarial manner.
 </div>
 </div>
 
@@ -96,7 +110,7 @@ OKDMDE is a simple and effective technique to enhance model diversity in online 
 # Review Services
 - *2022 - Present.* AAAI, ECCV, CVPR, ICML, NeurlPS, ICLR, KBS, TNNLS...
 
-# Misc
-- Photography. Some [photos](https://500px.com.cn/zhengliphoto) I took while traveling and mountaineering.
-- Mountaineering. Summit: [Haba Snow Mountain](https://en.wikipedia.org/wiki/Haba_Snow_Mountain) (5396m)
+# Personal Hobbies
+- Photography 📸. Some [photos](https://500px.com.cn/zhengliphoto) I took while traveling and mountaineering.
+- Mountaineering 🗻. Summit: [Haba Snow Mountain](https://en.wikipedia.org/wiki/Haba_Snow_Mountain) (5396m)
 
