@@ -40,7 +40,7 @@ The journey of scientific research is challenging, but I'm passionate about my w
 
 [**CVPR 2024**]
 **PromptKD: Unsupervised Prompt Distillation for Vision-Language Models.**  
-**Zheng Li**, Xiang Li, Xinyi Fu, Xing Zhang, Weiqiang Wang, Shuo Chen, Jian Yang.  
+**Zheng Li**, Xiang Li, Xinyi Fu, Xin Zhang, Weiqiang Wang, Shuo Chen, Jian Yang.  
 [[Paper](https://arxiv.org/abs/2403.02781)][[Code](https://github.com/zhengli97/PromptKD)]<img src="https://img.shields.io/github/stars/zhengli97/PromptKD?style=social"/>[[Project Page](https://zhengli97.github.io/PromptKD/)][[中文解读](https://zhengli97.github.io/PromptKD/chinese_interpertation.html)]  
 PromptKD is a simple and effective prompt-driven unsupervised distillation framework for Vision-Language Models.
 </div>
