@@ -46,6 +46,17 @@ PromptKD is a simple and effective prompt-driven unsupervised distillation frame
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div>
+<img src='images/PR_2024_DTSKD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**PR 2024**]
+**Dual Teachers for Self-Knowledge Distillation.**  
+**Zheng Li**, Xiang Li, Lingfeng Yang, Renjie Song, Jian Yang, Zhigeng Pan.  
+Paper coming soon.   
+DTSKD explores a new self-KD framework where the student network receives self-supervisions by dual teachers from two dramatically distinct fields. 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div>
 <!-- <div class="badge">AAAI 2023</div> -->
