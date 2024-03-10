@@ -15,8 +15,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About Me
 
-I am currently a second-year Ph.D. student at Visual Computing and Intelligent Perception (VCIP) Lab, [Nankai University](https://en.nankai.edu.cn/), advised by Prof. [Xiang Li](http://implus.github.io/) and Prof. [Jian Yang](http://www.patternrecognition.asia/jian/). I am also a research intern at [Ant Group](https://www.antgroup.com/).
-My research mainly focuses on efficient model computing.
+I am currently a second-year Ph.D. student at Tianjin Key Laboratory of Visual Computing and Intelligent Perception (VCIP), [Nankai University](https://en.nankai.edu.cn/), advised by Prof. [Xiang Li](http://implus.github.io/) and Prof. [Jian Yang](http://www.patternrecognition.asia/jian/). I am also a research intern at Tiansuan Lab, [Ant Group](https://www.antgroup.com/).
+My research mainly focuses on vision-language models and efficient model computing.
 
 <!-- I use a Sony A7M4 camera with Sigma 35mm F1.4 DG DN, Tamron 28-200mm F2.8-5.6, and Tamron 17-28mm F2.8 lens. -->
 
@@ -53,7 +53,7 @@ PromptKD is a simple and effective prompt-driven unsupervised distillation frame
 [**PR 2024**]
 **Dual Teachers for Self-Knowledge Distillation.**  
 **Zheng Li**, Xiang Li, Lingfeng Yang, Renjie Song, Jian Yang, Zhigeng Pan.  
-Paper coming soon.   
+**Paper coming soon.**   
 DTSKD explores a new self-KD framework where the student network receives self-supervisions by dual teachers from two dramatically distinct fields. 
 </div>
 </div>
