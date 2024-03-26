@@ -42,7 +42,7 @@ The journey of scientific research is challenging, but I'm passionate about my w
 **PromptKD: Unsupervised Prompt Distillation for Vision-Language Models.**  
 **Zheng Li**, Xiang Li, Xinyi Fu, Xin Zhang, Weiqiang Wang, Shuo Chen, Jian Yang.  
 [[Paper](https://arxiv.org/abs/2403.02781)][[Code](https://github.com/zhengli97/PromptKD)]<img src="https://img.shields.io/github/stars/zhengli97/PromptKD?style=social"/>[[Project Page](https://zhengli97.github.io/PromptKD/)][[中文解读](https://zhengli97.github.io/PromptKD/chinese_interpertation.html)]  
-PromptKD is a simple and effective prompt-driven unsupervised distillation framework for Vision-Language Models.
+PromptKD is a simple and effective prompt-driven unsupervised distillation framework for VLMs, with state-of-the-art performance.
 </div>
 </div>
 
@@ -53,7 +53,7 @@ PromptKD is a simple and effective prompt-driven unsupervised distillation frame
 [**PR 2024**]
 **Dual Teachers for Self-Knowledge Distillation.**  
 **Zheng Li**, Xiang Li, Lingfeng Yang, Renjie Song, Jian Yang, Zhigeng Pan.  
-[[Paper](https://www.sciencedirect.com/science/article/pii/S0031320324001730)][Code][中文解读]  
+[[Paper](https://www.sciencedirect.com/science/article/pii/S0031320324001730)][[PDF](https://github.com/zhengli97/zhengli97.github.io/tree/main/docs/dual_teachers.pdf)][Code(TBD)][中文解读(TBD)]  
 DTSKD explores a new self-KD framework where the student network receives self-supervisions by dual teachers from two dramatically distinct fields. 
 </div>
 </div>
