@@ -22,6 +22,8 @@ My research mainly focuses on vision-language models and efficient model computi
 
 The code of my research work will be open-source, and I will also attach a detailed Chinese interpretation of the paper. Although the interpretation may be somewhat fragmented, I will do my best to present the insights and ideas behind the paper.
 
+I am also maintaining a curated list of prompt learning methods for vision-language models.[[Links](https://github.com/zhengli97/Awesome-Prompt-Learning-for-Vision-Language-Models)]<img src="https://img.shields.io/github/stars/zhengli97/Awesome-Prompt-Learning-for-Vision-Language-Models?style=social"/>.
+
 The journey of scientific research is challenging, but I'm passionate about my work. If you're interested in my research or encounter any research problems, please feel free to contact me via email (zhengli97 [at] {mail.nankai.edu.cn, qq.com}).
 
 <!-- Also, I love:
@@ -53,7 +55,7 @@ PromptKD is a simple and effective prompt-driven unsupervised distillation frame
 [**PR 2024**]
 **Dual Teachers for Self-Knowledge Distillation.**  
 **Zheng Li**, Xiang Li, Lingfeng Yang, Renjie Song, Jian Yang, Zhigeng Pan.  
-[[Paper](https://www.sciencedirect.com/science/article/pii/S0031320324001730)][[PDF](https://github.com/zhengli97/zhengli97.github.io/tree/main/docs/dual_teachers.pdf)][Code(TBD)][中文解读(TBD)]  
+[[Paper](https://www.sciencedirect.com/science/article/pii/S0031320324001730)][[PDF](https://github.com/zhengli97/zhengli97.github.io/tree/main/docs/dual_teachers.pdf)][Code(TBD)][[中文解读(知乎)](https://zhuanlan.zhihu.com/p/690877571)]  
 DTSKD explores a new self-KD framework where the student network receives self-supervisions by dual teachers from two dramatically distinct fields. 
 </div>
 </div>
@@ -122,6 +124,6 @@ OKDMDE is a simple and effective technique to enhance model diversity in online 
 - *2022 - Present.* AAAI, ECCV, CVPR, ICML, NeurlPS, ICLR, KBS, TNNLS...
 
 # Personal Hobbies
-- Photography 📸. Some [photos](https://500px.com.cn/zhengliphoto) I took while traveling and mountaineering.
+- Photography 📸. I am a contracted photographer for [500px Gallery](https://500px.com.cn/). Some [photos](https://500px.com.cn/zhengliphoto) I took while traveling and mountaineering.
 - Mountaineering 🗻. Summit: [Haba Snow Mountain](https://en.wikipedia.org/wiki/Haba_Snow_Mountain) (5396m)
 
