@@ -126,4 +126,4 @@ OKDMDE is a simple and effective technique to enhance model diversity in online 
 # Personal Hobbies
 - Photography 📸. I am a contracted photographer for [500px Gallery](https://500px.com.cn/). Some [photos](https://500px.com.cn/zhengliphoto) I took while traveling and mountaineering.
 - Mountaineering 🗻. Summit: [Haba Snow Mountain](https://en.wikipedia.org/wiki/Haba_Snow_Mountain) (5396m)
-
+- Trail Running 🏃‍♂️ ([iTRA](https://itra.run/RunnerSpace/li.zheng/5425908)) . TNF100 Ultra Trail Challenge Moganshan - 30km Group. Finish: 5h28min (33km).
