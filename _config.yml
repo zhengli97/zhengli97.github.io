@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zheng Li (李政)"
-description              : "Ph.D. student at Nankai University."
+description              : ""
 repository               : "zhengli97/zhengli97.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zheng Li (李政)"
   avatar           : "images/touxiang.png"
-  bio              : "Nankai University"
-  location         : "Tianjin, China"
+  bio              : "Nankai University; Alibaba DAMO Academy"
+  location         : "Hangzhou, China"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=qhKtNSIAAAAJ&hl=en"
