@@ -70,7 +70,7 @@ DTSKD explores a new self-KD framework where the student network receives self-s
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div>
 <img src='images/Arxiv-2023-DMKD.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -80,7 +80,7 @@ DTSKD explores a new self-KD framework where the student network receives self-s
 [[Paper](https://arxiv.org/abs/2305.12954)][[Code](https://github.com/zhengli97/DM-KD)]<img src="https://img.shields.io/github/stars/zhengli97/DM-KD?style=social"/>  
 DM-KD is an interesting work that extensively investigates whether and how synthetic images generated from diffusion models can be used for distillation without access to real images.
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div>
 <!-- <div class="badge">AAAI 2023</div> -->
@@ -138,4 +138,4 @@ OKDMDE is a simple and effective technique to enhance model diversity in online 
 # Personal Hobbies
 - Photography 📸. I am a contracted photographer for [500px Gallery](https://500px.com.cn/). Some [photos](https://500px.com.cn/zhengliphoto) I took while traveling and mountaineering.
 - Mountaineering 🗻. Summit: [Haba Snow Mountain](https://en.wikipedia.org/wiki/Haba_Snow_Mountain) (5396m)
-- Trail Running 🏃‍♂️ ([iTRA](https://itra.run/RunnerSpace/li.zheng/5425908)). TNF100 Ultra Trail Challenge Moganshan - 30km Group. Finish: 5h28min (33km).
+- Trail Running 🏃‍♂️ ([iTRA](https://itra.run/RunnerSpace/li.zheng/5425908)). [TNF100 Ultra Trail Challenge Moganshan - 30km Group](https://itra.run/Races/RaceDetails/TNF100.Ultra.Trail.Challenge.Moganshan.30km%E8%BE%B0/2024/91022). Finish: 5h28min (33km).
