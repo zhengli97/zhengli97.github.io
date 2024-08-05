@@ -12,8 +12,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About Me
 
-I am currently a second-year Ph.D. student at Tianjin Key Laboratory of Visual Computing and Intelligent Perception (VCIP), [Nankai University](https://en.nankai.edu.cn/), advised by [Prof. Xiang Li](http://implus.github.io/) and [Prof. Jian Yang](http://www.patternrecognition.asia/jian/). I am also a research intern at [Alibaba DAMO Academy](https://damo.alibaba.com/).
-<!-- , led by [Dr. Yibing Song](https://scholar.google.com/citations?user=oRhJHmIAAAAJ&hl=en). -->
+I am currently a second-year Ph.D. student at Tianjin Key Laboratory of Visual Computing and Intelligent Perception (VCIP), [Nankai University](https://en.nankai.edu.cn/), advised by [Prof. Xiang Li](http://implus.github.io/) and [Prof. Jian Yang](http://www.patternrecognition.asia/jian/). I am also a research intern at [Alibaba DAMO Academy](https://damo.alibaba.com/), led by [Dr. Yibing Song](https://ybsong00.github.io/) and [Dr. Fan Wang](https://scholar.google.com/citations?user=WCRGTHsAAAAJ&hl=en).
 My research mainly focuses on vision-language models, multi-modal learning and efficient model computing.
 
 <!-- I use a Sony A7M4 camera with Sigma 35mm F1.4 DG DN, Tamron 28-200mm F2.8-5.6, and Tamron 17-28mm F2.8 lens. -->
