@@ -120,6 +120,14 @@ OKDMDE is a simple and effective technique to enhance model diversity in online 
 </div>
 </div>
 
+- [**ECCV 2024**] **Cascade Prompt Learning for Vision-Language Model Adaptation.**   
+Ge Wu, Xin Zhang, **Zheng Li**, Zhaowei Chen, Jiajun Liang, Jian Yang, Xiang Li.  
+[[Paper](https://arxiv.org/abs/2409.17805)] [[Code](https://github.com/megvii-research/CasPL)]
+
+- [**CVIU 2023**] **GEIKD: Self-knowledge distillation based on gated ensemble networks and influences-based label noise removal.**   
+Fuchang Liu, Yu Wang, **Zheng Li**, Zhigeng Pan.   
+[[Paper](https://www.sciencedirect.com/science/article/pii/S1077314223001510)]
+
 # Competitions
 - [Kaggle](https://kaggle.com/) **Competition Master**. 2 Gold Medals. [[My Profile](https://www.kaggle.com/mdlszhengli)]
   - *2019.11*. Understanding Clouds from Satellite Images. Rank: 7th/1538 (Top 1%). **Gold Medal** [[Link](https://www.kaggle.com/c/understanding_cloud_organization)][[Solution](https://www.kaggle.com/c/understanding_cloud_organization/discussion/117974)]
@@ -129,7 +137,6 @@ OKDMDE is a simple and effective technique to enhance model diversity in online 
 <!-- # Honors and Awards
 - *2022.03.* Outstanding Graduates of Zhejiang Province.
 - *2021.10.* National Scholarship by Ministry of Education of China. -->
-
 
 # Review Services
 - *2022 - Present.* AAAI, ECCV, CVPR, ICML, NeurlPS, ICLR, KBS, TNNLS...
