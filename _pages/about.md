@@ -124,7 +124,7 @@ OKDMDE is a simple and effective technique to enhance model diversity in online 
 Ge Wu, Xin Zhang, **Zheng Li**, Zhaowei Chen, Jiajun Liang, Jian Yang, Xiang Li.  
 [[Paper](https://arxiv.org/abs/2409.17805)] [[Code](https://github.com/megvii-research/CasPL)]
 
-- [**CVIU 2023**] **GEIKD: Self-knowledge distillation based on gated ensemble networks and influences-based label noise removal.**   
+- [**CVIU 2023**] **GEIKD: Self-knowledge Distillation based on Gated Ensemble Networks and Influences-based Label Noise Removal.**   
 Fuchang Liu, Yu Wang, **Zheng Li**, Zhigeng Pan.   
 [[Paper](https://www.sciencedirect.com/science/article/pii/S1077314223001510)]
 
