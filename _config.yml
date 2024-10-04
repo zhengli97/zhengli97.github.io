@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zheng Li (李政)"
   avatar           : "images/touxiang.png"
-  bio              : "Nankai University; Alibaba DAMO Academy"
+  bio              : # "Nankai University"
   location         : "Hangzhou, China"
   employer         : 
   pubmed           : 
@@ -44,7 +44,7 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : # "https://dblp.org/pid/10/1143-28.html"
   orcid            : # "https://orcid.org/0000-0003-3309-1087"
   pinterest        :
   soundcloud       :
