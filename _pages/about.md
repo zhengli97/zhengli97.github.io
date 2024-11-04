@@ -21,7 +21,7 @@ The code of my research work will be open-source, and I will also attach a detai
 
 I am also maintaining a curated list [[Links](https://github.com/zhengli97/Awesome-Prompt-Learning-for-Vision-Language-Models)]<img src="https://img.shields.io/github/stars/zhengli97/Awesome-Prompt-Learning-for-Vision-Language-Models?style=social"/> of prompt learning methods for vision-language models. Feel free to check it out~
 
-The journey of scientific research is challenging, but I'm passionate about my work. If you're interested in my research or encounter any research problems, please feel free to contact me via email (zhengli97 [at] {mail.nankai.edu.cn, qq.com}).
+The journey of scientific research is challenging, but I'm passionate about my work. If you're interested in my research or encounter any problems, please contact me via email (zhengli97[at]qq.com).
 
 <!-- Also, I love:
 - Trekking and Mountaineering 🗻.  I have summited [Haba Snow Mountain](https://en.wikipedia.org/wiki/Haba_Snow_Mountain) (5396m ASL).
@@ -68,7 +68,6 @@ DTSKD explores a new self-KD framework where the student network receives self-s
 </div>
 </div>
 
-
 <!-- <div class='paper-box'><div class='paper-box-image'><div>
 <img src='images/Arxiv-2023-DMKD.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -103,8 +102,7 @@ The temperature is learned during the student’s training process with a revers
 **Online Knowledge Distillation for Efficient Pose Estimation.**  
 **Zheng Li**, Jingwen Ye, Mingli Song, Ying Huang, Zhigeng Pan.  
 [[Paper](https://arxiv.org/abs/2108.02092)][[Code](https://github.com/zhengli97/OKDHP)]<img src="https://img.shields.io/github/stars/zhengli97/OKDHP?style=social"/>[[Project Page](https://zhengli97.github.io/OKDHP/)][[中文解读](https://zhengli97.github.io/OKDHP/chinese_interpertation.html)]  
-OKDHP first proposes to distill the pose structure knowledge in a one-stage manner. The students from multiple
-branches are integrated into one teacher by the FAU module, which then distills the student branches in reverse.
+OKDHP first proposes to distill the pose structure knowledge in a one-stage manner. The FAU module integrates students from multiple branches into one teacher, which then distills the student branches in reverse.
 </div>
 </div>
 
@@ -139,7 +137,7 @@ Fuchang Liu, Yu Wang, **Zheng Li**, Zhigeng Pan.
 - *2021.10.* National Scholarship by Ministry of Education of China. -->
 
 # Review Services
-- *2022 - Present.* AAAI, ECCV, CVPR, ICML, NeurlPS, ICLR, KBS, TNNLS...
+- *2022 - Present.* AAAI, ECCV, CVPR, ICML, NeurlPS, ICLR, IJCV, TIP, KBS, TNNLS...
 
 # Personal Hobbies
 - Photography 📸. I am a contracted photographer for [500px Gallery](https://500px.com.cn/). Some [photos](https://500px.com.cn/zhengliphoto) I took while traveling and mountaineering.
