@@ -1,0 +1,87 @@
+papers:
+
+  - title: "Cascade Prompt Learning for Vision-Language Model Adaptation."
+    authors: "Ge Wu, Xin Zhang, <b>Zheng Li</b>, Zhaowei Chen, Jiajun Liang, Jian Yang, Xiang Li<sup>#</sup>."
+    venue: "ECCV 2024"
+    paper_link: "https://arxiv.org/abs/2409.17805"
+    code: "https://github.com/megvii-research/CasPL"
+    # project_page: "https://zhengli97.github.io/PromptKD/"
+    # interpretation: "https://zhengli97.github.io/PromptKD/chinese_interpertation.html"
+    selected: n
+
+  - title: "PromptKD: Unsupervised Prompt Distillatino for Vision-Language Models."
+    authors: "<b>Zheng Li</b>, Xiang Li<sup>#</sup>, Xinyi Fu, Xin Zhang, Weiqiang Wang, Shuo Chen, Jian Yang<sup>#</sup>"
+    venue: "CVPR 2024"
+    brief_intro: "PromptKD is a simple and effective <i>prompt-driven unsupervised distillation framework</i> for VLMs (e.g., CLIP), with state-of-the-art performance."
+    paper_link: "https://arxiv.org/abs/2403.02781"
+    code: "https://github.com/zhengli97/PromptKD"
+    project_page: "https://zhengli97.github.io/PromptKD/"
+    interpretation: "https://zhengli97.github.io/PromptKD/chinese_interpertation.html"
+    video_chinese: "https://www.techbeat.net/talk-info?id=915"
+    selected: y
+
+  - title: "Dual Teachers for Self-Knowledge Distillation."
+    authors: "<b>Zheng Li</b>, Xiang Li, Lingfeng Yang, Renjie Song, Jian Yang<sup>#</sup>, Zhigeng Pan."
+    venue: "PR 2024"
+    brief_intro: "DTSKD explores a new self-KD framework where the student network receives self-supervisions by <i>dual teachers</i> from two dramatically distinct fields."
+    paper_link: "https://www.sciencedirect.com/science/article/pii/S0031320324001730"
+    # code: "https://github.com/saveski-lab/supernotes"
+    interpretation: "https://zhuanlan.zhihu.com/p/690877571"
+    selected: y
+
+  - title: "GEIKD: Self-knowledge Distillation based on Gated Ensemble Networks and Influences-based Label Noise Removal."
+    authors: "Fuchang Liu, Yu Wang, <b>Zheng Li</b>, Zhigeng Pan<sup>#</sup>."
+    venue: "CVIU 2024"
+    paper_link: "https://www.sciencedirect.com/science/article/pii/S1077314223001510"
+    # code: "https://github.com/saveski-lab/supernotes"
+    # interpretation: "https://zhuanlan.zhihu.com/p/690877571"
+    selected: n
+
+  - title: "Is Synthetic Data From Diffusion Models Ready for Knowledge Distillation?"
+    authors: "<b>Zheng Li</b>, Yuxuan Li, Penghai Zhao, Renjie Song, Xiang Li<sup>#</sup>, Jian Yang<sup>#</sup>."
+    venue: "Arxiv Preprint 2023"
+    paper_link: "https://arxiv.org/abs/2305.12954"
+    code: "https://github.com/zhengli97/DM-KD"
+    # interpretation: "https://zhuanlan.zhihu.com/p/690877571"
+    selected: n
+
+  - title: "Curriculum Temperature for Knowledge Distillation."
+    authors: "<b>Zheng Li</b>, Xiang Li<sup>#</sup>, Lingfeng Yang, Borui Zhao, Renjie Song, Lei Luo, Jun Li, Jian Yang<sup>#</sup>."
+    venue: "AAAI 2023"
+    brief_intro: "CTKD organizes the distillation task from easy to hard through a <i>dynamic and learnable temperature</i>."
+    paper_link: "https://arxiv.org/abs/2211.16231"
+    code: "https://github.com/zhengli97/CTKD"
+    project_page: "https://zhengli97.github.io/CTKD"
+    interpretation: "https://zhengli97.github.io/CTKD/chinese_interpertation.html"
+    selected: y
+
+  - title: "Online Knowledge Distillation for Efficient Pose Estimation."
+    authors: "<b>Zheng Li</b>, Jingwen Ye, Mingli Song, Ying Huang, Zhigeng Pan<sup>#</sup>."
+    venue: "ICCV 2021"
+    brief_intro: "OKDHP first proposes to distill the pose structure knowledge in a <i>one-stage</i> manner."
+    paper_link: "https://arxiv.org/abs/2108.02092"
+    code: "https://github.com/zhengli97/OKDHP"
+    # project_page: "https://zhengli97.github.io/CTKD"
+    interpretation: "https://zhengli97.github.io/OKDHP/chinese_interpertation.html"
+    selected: y
+
+  - title: "Online Knowledge Distillation via Multi-branch Diversity Enhancement."
+    authors: "<b>Zheng Li</b>, Ying Huang, Defang Chen, Tianren Luo, Ning Cai, Zhigeng Pan<sup>#</sup>."
+    venue: "ACCV 2020"
+    brief_intro: "OKDMDE is a simple and effective technique to enhance <i>model diversity</i> in online knowledge distillation."
+    paper_link: "https://arxiv.org/abs/2010.00795"
+    # code: "https://github.com/zhengli97/OKDHP"
+    # project_page: "https://zhengli97.github.io/CTKD"
+    # interpretation: "https://zhengli97.github.io/OKDHP/chinese_interpertation.html"
+    selected: y
+
+  - title: "Dream-experiment: a MR user interface with natural multi-channel interaction for virtual experiments."
+    authors: "Tianren Luo, Mingmin Zhang<sup>#</sup>, Zhigeng Pan<sup>#</sup>, <b>Zheng Li</b>, Ning Cai, Jinda Miao, Youbin Chen, Mingxi Xu."
+    venue: "TVCG 2020"
+    # brief_intro: "OKDMDE is a simple and effective technique to enhance model diversity in online knowledge distillation."
+    paper_link: "https://ieeexplore.ieee.org/abstract/document/9199566"
+    video: "https://www.youtube.com/watch?v=HfIQz4min1E"
+    # code: "https://github.com/zhengli97/OKDHP"
+    # project_page: "https://zhengli97.github.io/CTKD"
+    # interpretation: "https://zhengli97.github.io/OKDHP/chinese_interpertation.html"
+    selected: n
