@@ -153,7 +153,11 @@ title: Home
             {% if paper.interpretation %}
               <a class="button" href="{{ paper.interpretation }}" target="_blank">中文解读</a>
             {% endif %}
-
+             
+            {% if paper.video_chinese %}
+              <a class="button" href="{{ paper.video_chinese }}" target="_blank">视频解读</a>
+            {% endif %}
+             
           </div>
         </div>
       {% endfor %}
