@@ -31,7 +31,7 @@ papers:
 
   - title: "GEIKD: Self-knowledge Distillation based on Gated Ensemble Networks and Influences-based Label Noise Removal."
     authors: "Fuchang Liu, Yu Wang, <b>Zheng Li</b>, Zhigeng Pan<sup>#</sup>."
-    venue: "CVIU 2024"
+    venue: "CVIU 2023"
     paper_link: "https://www.sciencedirect.com/science/article/pii/S1077314223001510"
     # code: "https://github.com/saveski-lab/supernotes"
     # interpretation: "https://zhuanlan.zhihu.com/p/690877571"
