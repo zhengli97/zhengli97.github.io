@@ -6,7 +6,7 @@ papers:
     paper_link: "https://arxiv.org/abs/2409.17805"
     code: "https://github.com/megvii-research/CasPL"
     # project_page: "https://zhengli97.github.io/PromptKD/"
-    # interpretation: "https://zhengli97.github.io/PromptKD/chinese_interpertation.html"
+    interpretation: "https://zhuanlan.zhihu.com/p/867291664"
     selected: n
 
   - title: "PromptKD: Unsupervised Prompt Distillatino for Vision-Language Models."
