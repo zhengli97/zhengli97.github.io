@@ -1,6 +1,6 @@
 papers:
-  - title: "ATPrompt: Textual Prompt Learning with Embedded Attributes."
-    authors: "<b>Zheng Li</b>, Yibing Song, Penghai Zhao, Ming-Ming Cheng, Xiang Li<sup>#</sup>, Jian Yang<sup>#</sup>."
+  - title: "Advancing Textual Prompt Learning with Anchored Attributes."
+    authors: "<b>Zheng Li</b>, Yibing Song, Ming-Ming Cheng, Xiang Li<sup>#</sup>, Jian Yang<sup>#</sup>."
     venue: "arxiv 2024"
     paper_link: "https://arxiv.org/abs/2412.09442"
     code: "https://github.com/zhengli97/ATPrompt"
