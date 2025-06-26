@@ -1,7 +1,8 @@
 papers:
   - title: "Advancing Textual Prompt Learning with Anchored Attributes."
     authors: "<b>Zheng Li</b>, Yibing Song, Ming-Ming Cheng, Xiang Li<sup>#</sup>, Jian Yang<sup>#</sup>."
-    venue: "arxiv 2024"
+    venue: "ICCV 2025"
+    brief_intro: "ATPrompt introduces a new attribute-anchored prompt format that can be seamlessly integrated into existing textual prompt leraning methods and achieve general improvements."
     paper_link: "https://arxiv.org/abs/2412.09442"
     code: "https://github.com/zhengli97/ATPrompt"
     project_page: "https://zhengli97.github.io/ATPrompt/"
