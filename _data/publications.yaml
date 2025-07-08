@@ -22,10 +22,10 @@ papers:
     venue: "CVPR 2024"
     brief_intro: "PromptKD is a simple and effective <i>prompt-driven unsupervised distillation framework</i> for VLMs (e.g., CLIP), with state-of-the-art performance."
     paper_link: "https://arxiv.org/abs/2403.02781"
-    chinese_version: "https://github.com/zhengli97/PromptKD/blob/main/docs/PromptKD_chinese_version.pdf"
+    chinese_version: "https://github.com/zhengli97/PromptKD/docs/PromptKD_chinese_version.pdf"
     code: "https://github.com/zhengli97/PromptKD"
     project_page: "https://zhengli97.github.io/PromptKD/"
-    interpretation: "https://zhengli97.github.io/PromptKD/chinese_interpertation.html"
+    interpretation: "https://zhuanlan.zhihu.com/p/684269963"
     video_chinese: "https://www.techbeat.net/talk-info?id=915"
     selected: y
 
