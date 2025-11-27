@@ -1,4 +1,12 @@
 papers:
+  - title: "AnchorOPT: Towards Optimizing Dynamic Anchors for Adaptive Prompt Learning."
+    authors: "<b>Zheng Li</b>, Yibing Song, Xin Zhang, Lei Luo, Xiang Li<sup>#</sup>, Jian Yang<sup>#</sup>."
+    venue: "arxiv 2025"
+    brief_intro: "AnchorOPT transforms anchors from explicit static tokens into implicitly optimized representations, further improving the performance of anchor-guided prompt learning."
+    paper_link: "https://arxiv.org/abs/2511.21188"
+    code: "https://github.com/zhengli97/ATPrompt"
+    selected: y
+
   - title: "Advancing Textual Prompt Learning with Anchored Attributes."
     authors: "<b>Zheng Li</b>, Yibing Song, Ming-Ming Cheng, Xiang Li<sup>#</sup>, Jian Yang<sup>#</sup>."
     venue: "ICCV 2025"
