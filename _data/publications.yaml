@@ -1,4 +1,19 @@
 papers:
+  - title: "NAIPv2: Debiased Pairwise Learning for Efficient Paper Quality Estimation."
+    authors: "Penghai Zhao, Jinyu Tian, Qinghua Xing, Xin Zhang, <b>Zheng Li</b>, Jianjun Qian, Ming-Ming Cheng, Xiang Li"
+    venue: "ICLR 2026"
+    paper_link: "https://arxiv.org/abs/2509.25179"
+    code: "https://sway.cloud.microsoft/Pr42npP80MfPhvj"
+    selected: n
+
+  - title: "AnchorOPT: Towards Optimizing Dynamic Anchors for Adaptive Prompt Learning."
+    authors: "<b>Zheng Li</b>, Yibing Song, Xin Zhang, Lei Luo, Xiang Li<sup>#</sup>, Jian Yang<sup>#</sup>."
+    venue: "arxiv 2025"
+    brief_intro: "AnchorOPT transforms anchors from explicit static tokens into implicitly optimized representations, further improving the performance of anchor-guided prompt learning."
+    paper_link: "https://arxiv.org/abs/2511.21188"
+    code: "https://github.com/zhengli97/ATPrompt"
+    selected: y
+
   - title: "AnchorOPT: Towards Optimizing Dynamic Anchors for Adaptive Prompt Learning."
     authors: "<b>Zheng Li</b>, Yibing Song, Xin Zhang, Lei Luo, Xiang Li<sup>#</sup>, Jian Yang<sup>#</sup>."
     venue: "arxiv 2025"
