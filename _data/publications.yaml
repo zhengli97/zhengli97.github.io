@@ -1,4 +1,12 @@
 papers:
+  - title: "SciFigBench: A Benchmark for Scientific Method Figure Understanding"
+    authors: "Lijia Wu, <b>Zheng Li</b><sup>#</sup>, Yuxuan Liu, Jingwen Zhang, Penghai Zhao,  Xiang Li<sup>#</sup>."
+    venue: "EMNLP 2026 Main"
+    paper_link: "https://arxiv.org/abs/2610.27087"
+    code: "https://github.com/LeNcyer/SciFigBench"
+    brief_intro: "SciFigBench is a diagnostic benchmark for evaluating VLMs on scientific method figure understanding."
+    selected: y
+
   - title: "NAIPv2: Debiased Pairwise Learning for Efficient Paper Quality Estimation."
     authors: "Penghai Zhao, Jinyu Tian, Qinghua Xing, Xin Zhang, <b>Zheng Li</b>, Jianjun Qian, Ming-Ming Cheng, Xiang Li"
     venue: "ICLR 2026"
